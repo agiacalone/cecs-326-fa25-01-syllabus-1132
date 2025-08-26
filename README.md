@@ -89,7 +89,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 | Nov 10     | File Systems, ctd.                                  |
 | Nov 17     | Virtualization (Ch 7)                               |
 | Nov 24     | **Fall Break**                                      |
-| Dec 1-8    | Final Exam                                          |
+| Dec 1-8    | Case Studies, Final Exam                            |
 
 
 ### Computer Software
